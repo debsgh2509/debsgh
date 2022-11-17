@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently 4th year student of engineering with specialization in computer science<br>I am a quick learner and a problem solver <br>Apart from Java and C programming I am learning about front end development <br>And I am looking for better opportunities
+I am currently a 4th year student of engineering with specialization in computer science<br>I am a quick learner and a problem solver <br>Apart from Java and C programming I am learning about front end development <br>And I am looking for better opportunities
 
 
 ## 🌐 Socials:
